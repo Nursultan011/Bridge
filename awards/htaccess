@@ -1,0 +1,104 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page35496436.html
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^summerschool$ page37043038.html [NC]
+RewriteRule ^summerschool/$ page37043038.html [NC]
+
+RewriteRule ^nocode$ page35519203.html [NC]
+RewriteRule ^nocode/$ page35519203.html [NC]
+
+RewriteRule ^startupacademykz$ page37164021.html [NC]
+RewriteRule ^startupacademykz/$ page37164021.html [NC]
+
+RewriteRule ^workshopflutterflow$ page37259628.html [NC]
+RewriteRule ^workshopflutterflow/$ page37259628.html [NC]
+
+RewriteRule ^freelanceschool$ page35639311.html [NC]
+RewriteRule ^freelanceschool/$ page35639311.html [NC]
+
+RewriteRule ^summerschoolkz$ page37282417.html [NC]
+RewriteRule ^summerschoolkz/$ page37282417.html [NC]
+
+RewriteRule ^workshop$ page37362853.html [NC]
+RewriteRule ^workshop/$ page37362853.html [NC]
+
+RewriteRule ^lowcode$ page35661487.html [NC]
+RewriteRule ^lowcode/$ page35661487.html [NC]
+
+RewriteRule ^startupacademy$ page36133984.html [NC]
+RewriteRule ^startupacademy/$ page36133984.html [NC]
+
+RewriteRule ^ainisteins$ page37600386.html [NC]
+RewriteRule ^ainisteins/$ page37600386.html [NC]
+
+RewriteRule ^workshoptilda$ page37428519.html [NC]
+RewriteRule ^workshoptilda/$ page37428519.html [NC]
+
+RewriteRule ^startupschool$ page35499645.html [NC]
+RewriteRule ^startupschool/$ page35499645.html [NC]
+
+RewriteRule ^betacareer$ page35697707.html [NC]
+RewriteRule ^betacareer/$ page35697707.html [NC]
+
+RewriteRule ^azure$ page37729410.html [NC]
+RewriteRule ^azure/$ page37729410.html [NC]
+
+RewriteRule ^engtech$ page38080855.html [NC]
+RewriteRule ^engtech/$ page38080855.html [NC]
+
+RewriteRule ^engtechrus$ page37724766.html [NC]
+RewriteRule ^engtechrus/$ page37724766.html [NC]
+
+RewriteRule ^itaiel/rus$ page36459383.html [NC]
+RewriteRule ^itaiel/rus/$ page36459383.html [NC]
+
+RewriteRule ^dara$ page38219707.html [NC]
+RewriteRule ^dara/$ page38219707.html [NC]
+
+RewriteRule ^english$ page39050276.html [NC]
+RewriteRule ^english/$ page39050276.html [NC]
+
+RewriteRule ^itaiel$ page36800082.html [NC]
+RewriteRule ^itaiel/$ page36800082.html [NC]
+
+RewriteRule ^nocodekz$ page37164251.html [NC]
+RewriteRule ^nocodekz/$ page37164251.html [NC]
+
+RewriteRule ^freelanceschoolkz$ page37164308.html [NC]
+RewriteRule ^freelanceschoolkz/$ page37164308.html [NC]
+
+RewriteRule ^lowcodekz$ page37164523.html [NC]
+RewriteRule ^lowcodekz/$ page37164523.html [NC]
+
+RewriteRule ^startupschoolkz$ page37164586.html [NC]
+RewriteRule ^startupschoolkz/$ page37164586.html [NC]
+
+RewriteRule ^betacareerkz$ page37164638.html [NC]
+RewriteRule ^betacareerkz/$ page37164638.html [NC]
+
+RewriteRule ^test$ page37265636.html [NC]
+RewriteRule ^test/$ page37265636.html [NC]
+
+RewriteRule ^calendar-intensive$ page37367740.html [NC]
+RewriteRule ^calendar-intensive/$ page37367740.html [NC]
+
+RewriteRule ^nocodeglovo$ page38058790.html [NC]
+RewriteRule ^nocodeglovo/$ page38058790.html [NC]
+
+RewriteRule ^freelanceglovo$ page38058952.html [NC]
+RewriteRule ^freelanceglovo/$ page38058952.html [NC]
+
+RewriteRule ^saglovo$ page38082973.html [NC]
+RewriteRule ^saglovo/$ page38082973.html [NC]
+
+RewriteRule ^sg$ page38780316.html [NC]
+RewriteRule ^sg/$ page38780316.html [NC]
+
+

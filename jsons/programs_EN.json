@@ -1,0 +1,1328 @@
+{
+  "programs": [
+    {
+      "date": "2023-10-12",
+      "events": [
+        {
+          "time": "14:00 — 15:00",
+          "hall": "SKYNET",
+          "title": "Panel session \"AI & GovTech\"",
+          "description": "Leading experts in the field of artificial intelligence (AI) and government technology (GovTech) will discuss the integration of AI technologies into GovTech to improve the performance of services, optimize processes and improve the quality of service to citizens.Learn about the transformative power of AI to improve government services, optimize resource allocation, and make data-driven decisions.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Assem Nurgaliyeva",
+              "job": "Managing Director of \"Kazpost\" JSC"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/Turlov.jpeg",
+              "fio": "Bagdat Mussin",
+              "job": "Minister of Digital Development, Innovations and Aerospace Industry of the Republic of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Vincenzo Aquaro ",
+              "job": "Chief of Digital Government Branch DiVISION for Public Institutions and Digital Government Department of Economic and Social Affairs – United Nations "
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Caroline Yap",
+              "job": "Managing Director, Global AI Business at Google"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "TRON",
+          "title": "Keynote Speech",
+          "description": "The topic and content are being clarified",
+
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Sawan Deswal",
+              "job": "Amazon Web Services"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Renato Lima",
+              "job": "Security Engineer at Meta"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "VISION",
+          "title": "Panel session \"From Paint to Pixels: How AI will change the landscape of creative industry?\"",
+          "description": "Today we have given computers not only artificial intelligence (AI), but also artificial eyes, ears, arms and legs. Now robots analyze stocks, write informational materials, poems and interact with customers. In the session, recognized creative industry experts will discuss how to preserve your unique creative voice and not let algorithms replace them.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": " To be confirmed ",
+              "job": "To be confirmed "
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Timur Bekmambetov",
+              "job": "Producer/Director"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Ernist Umetaliev",
+              "job": "Founder of the D'Billions YouTube project brand"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Ernar Kurmashev",
+              "job": "Producer, CGI, VFX Producer"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "JARVIS",
+          "title": "Series of reports \"Opportunities and Trends with AI\"",
+          "description": "A series of reports on AI/cloud computing and the role of communities in the development of technology ecosystems.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Askar Aituov",
+              "job": "Developer Relationships Coordinator in Central Asia & Mongolia | Google for Developers"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Enes Turan",
+              "job": "Google Developer Expert | Cloud Platform Engineer at Acedemand Consulting"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Alexey Rodionov",
+              "job": "Google Developer Expert | Lead front end developer at Mercury development"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Khongorzul Munkhbat",
+              "job": "Google Developer Expert | Machine Learning Deep Tech LLC"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "FRIDAY",
+          "title": "Round table \"The Collaborative Role of Institutional Investors in Ventures\" (Private session)",
+          "description": "",
+
+          "speakers": []
+        },
+
+        {
+          "time": "15:00 — 16:00",
+          "hall": "SKYNET",
+          "title": "Panel session: \"Challenges and Risks of using AI in Project Management\"",
+          "description": "The development of artificial intelligence (AI) technologies and its role in project management. Possible improvements in planning, resource management, risk forecasting and decision-making processes with the help of AI. New challenges and risks to be considered.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Zhanna Ibrayeva ",
+              "job": "Business Consultant, Emotional Intelligence Trainer"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Reinhard Wagner",
+              "job": "Chairman of the Board of the International Project Management Association – IPMA"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Hitendra Patel",
+              "job": "CEO of IXL Center"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Vadim Bogdanov",
+              "job": "Chairman of the National Association of Project Management Professionals"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Dr. Chinwi Mgbere",
+              "job": "IPMA  Global Project Excellence Award Winner"
+            }
+          ]
+        },
+        {
+          "time": "15:00 — 16:00",
+          "hall": "TRON",
+          "title": "Keynote Speech",
+          "description": "The topic and content are being clarified",
+
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Vincenzo Aquaro ",
+              "job": "Chief of Digital Government Branch DiVISION for Public Institutions and Digital Government Department of Economic and Social Affairs – United Nations"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Kawana T.King",
+              "job": "Senior Counsel at Google"
+            }
+          ]
+        },
+        {
+          "time": "15:00 — 16:00",
+          "hall": "VISION",
+          "title": "Panel session \"Accelerated learning: Threats and Opportunities of GPT in education\"",
+          "description": "The learning process is a complex social process and third-party interaction plays a key role in data exchange. GPT Chat improves processing efficiency, personalizes courses, empowers presenters, participates in group discussions, makes it easy to participate and co-create content - developing ideas and enriching your educational experience. At the same time, these advantages bring together pedagogical, organizational and ethical challenges. Can bans lower AI policy? Will it lead to staff cuts in the organization? How does AI affect sociology, pedagogy and business models in traditional educational organizations?",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Nurlan Kiyasov",
+              "job": "Program Director of the EdCrunch Conference"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Sayasat Nurbek",
+              "job": "Minister of Science and Higher Education of the Republic of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Zhuldyzai Musayeva",
+              "job": "Founder of JUZ40 educational platform"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Husein Abdul-Hamid",
+              "job": "Senior Education Specialist and the Education Statistics Coordinator at the World Bank"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Yermek Zhakipzhanov",
+              "job": "GR-директор Lenovo "
+            }
+          ]
+        },
+        {
+          "time": "15:00 — 16:00",
+          "hall": "JARVIS",
+          "title": "Panel session: \"AI trends in Tech Industry Today\"",
+          "description": "what’s happening today what can possibly happen tomorrow as well+ AI trends in Travel and in the Automotive Industry. How ChatGPT works in Microsoft Bing. How Virtual machines for AI/ML training work and many more",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Adilkhan Kopabaev",
+              "job": "Chairman of the Board JSC \"Situational and Analytical Center of the Fuel and Energy Complex of the Republic of Kazakhstan MinEnergo (Digital Nomad)\""
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Aray Sbayrzhan",
+              "job": "Software Engineer at Google"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Tamirlan Seidakhmetov",
+              "job": "Data Science Manager at Apple"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Alibek Datbaev",
+              "job": "Engineering Manager at Booking.com"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Eldan Abdrashim",
+              "job": "Software Engineer at Microsoft "
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Azat Suleimenov",
+              "job": "Manager/Technical Specialist at Lucid Motors"
+            }
+          ]
+        },
+        {
+          "time": "15:00 — 16:00",
+          "hall": "FRIDAY",
+          "title": "\"Round table of ICT Ministers\" (Private Session)",
+          "description": "To be confirmed ",
+
+          "speakers": []
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "SKYNET",
+          "title": "Astana Hub Battle",
+          "description": "The battle stands as the premier competition for the leading IT startups. It provides a platform for competing startups to contend for the esteemed title of 'the best.' A total prize pool of $75,000.",
+          "moderators": [],
+          "speakers": [],
+          "presenters": []
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "TRON",
+          "title": "Keynote Speech",
+          "description": "The topic and content are being clarified",
+
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Alexey Lee",
+              "job": "Founder of the online supermarket Arbuz.kz/Pinemelon.com"
+            }
+          ]
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "VISION",
+          "title": "Panel session \"Emerging Markets meet Emerging Technologies: Kazakhstan's Regional Leadership in DeFi Evolution\"",
+          "description": "To be confirmed ",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Kanysh Tuleushin",
+              "job": "First Vice Minister of Digital Development, Innovations and Aerospace Industry of the Republic of Kazakhstan"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Zhaslan Madiyev",
+              "job": "General Manager of Binance Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Olga Goncharova",
+              "job": "GR Director Binance"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Binur Zhalenov",
+              "job": "Chairman of the National Payment Corporation of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "SKYNETna Kaskyrbek",
+              "job": "Director of the Research Laboratory \"Blockchain Center\""
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Renat Bekturov",
+              "job": "Manager of the Astana International Financial Center"
+            }
+          ]
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"Smart city: Innovations, Artificial Intelligence and Security\"",
+          "description": "On the impact of artificial intelligence on the management of smart cities, its impact on ensuring the safety of citizens and improving urban life.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Magzhan Kystaubayev",
+              "job": "Co-founder of STEAM implementation academies"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Nursultan Kaldybayev",
+              "job": "Chairman of the Board of Astana Innovations"
+            },
+            {
+              "img": "img/ikbaev.jpg",
+              "fio": "Dulatbek Ikbayev",
+              "job": "Managing Partner – McKinsey & Company, Central Asia"
+            }
+          ]
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "FRIDAY",
+          "title": "Round table of ICT Ministers (Private Session)",
+          "description": "To be confirmed ",
+
+          "speakers": []
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "SKYNET",
+          "title": "Astana Hub Battle semi-final",
+          "description": "The battle stands as the premier competition for the leading IT startups. It provides a platform for competing startups to contend for the esteemed title of 'the best.' A total prize pool of $75,000.",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "TRON",
+          "title": "Keynote Speech",
+          "description": "The topic and content are being clarified",
+
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed ",
+              "job": "To be confirmed "
+            }
+          ]
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "VISION",
+          "title": "Panel session \"GOVSTACK: Accelerating Digital Transformation\"",
+          "description": "Introducing the regional GovStack program for the Central Asian region. Announcement of partnership with JSC NIT and the opening of a regional office.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Saken Zhumashev",
+              "job": "Managing partner KPMG Caucasus and Central Asia"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Bagdat Mussin",
+              "job": "Minister of Digital Development, innovation and aerospace industry of the Republic of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Cosmas Zavazava",
+              "job": "BDT Director ITU"
+            }
+          ]
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"The Time is Now: How AI is transforming HR today\"",
+          "description": "AI is revolutionizing the field of HR, opening up new opportunities for various areas of personnel management. Panel session speakers will discuss the latest trends in using AI to automate routine tasks, improve the quality of recruitment, effective training and development of employees. In addition, experts will share best practices and provide advice on successful implementation of AI in HR processes.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Ksenia Sosnyuk",
+              "job": "HR Director & Co Managing Partner Kolesa Group"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Philip Guarino",
+              "job": "Lecturer in AI and international strategy Harvard Business School"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Tahmina Kodiri",
+              "job": "HR Director Beeline Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Eldar Zhumagaziev",
+              "job": "Secretary of the Party \"AMANAT\""
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Rifat Abduramanov",
+              "job": "Owner and co-founder of HR Capital"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Kanat Kussembayev",
+              "job": "Head of Data Practice at EPAM Kazakhstan and Kyrgyzstan"
+            }
+          ]
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "FRIDAY",
+          "title": "Round table \"Digital Economy: New Opportunities for Women\"",
+          "description": "To be confirmed ",
+
+          "speakers": []
+        },
+        {
+          "time": "18:00 — 19:00",
+          "hall": "SKYNET",
+          "title": "Astana Hub Battle semi-final",
+          "description": "The battle stands as the premier competition for the leading IT startups. It provides a platform for competing startups to contend for the esteemed title of 'the best.' A total prize pool of $75,000.",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "18:00 — 19:00",
+          "hall": "TRON",
+          "title": "Panel session \"GameChanger Central Asia: Pioneering Investment Ecosystems in the Regional GameDev Sector\"",
+          "description": "The panel session delves into the strategic development of investment ecosystem within Central Asia's evolving gaming industry. The session convenes key stakeholders, including established venture capitalists, industry veterans, and experienced executives, to examine the transformative impact of investments on the regional gaming landscape.This session provides a special chance for people who want to start investing in the gaming industry and those who want to understand how investments work. People who want to invest and game developers who want to get investments for their projects will learn practical ideas about investment strategies, trends, and successful methods. Don't miss the opportunity to explore the changing investment situation in Central Asia's active gaming industry",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Mike Fischer",
+              "job": "Professor at University of Southern California, School of Cinematic Arts Interactive Media & Games DiVISION"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Saltukhan Gulshen",
+              "job": "Head of Investment Management Department at WePlay Hub"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Mariusz Goszewski",
+              "job": "The leader in the field of mobile games and Google applications in Central and Eastern Europe"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Yaz Karadeniz",
+              "job": "Investment Director Domino VC which is a Dutch early stage venture fund - focused on the markets of Turkey and Eastern Europe."
+            }
+          ]
+        },
+        {
+          "time": "18:00 — 19:00",
+          "hall": "VISION",
+          "title": "Panel session \"GOVSTACK: Accelerating Digital Transformation\"",
+          "description": "Introducing the regional GovStack program for the Central Asian region. Announcement of partnership with JSC NIT and the opening of a regional office.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Saken Zhumashev",
+              "job": "Managing partner KPMG Caucasus and Central Asia"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Bagdat Musin",
+              "job": "Minister of Digital Development, innovation and aerospace industry of the Republic of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Cosmas Zavazava",
+              "job": "BDT Director ITU"
+            }
+          ]
+        },
+        {
+          "time": "18:00 — 19:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"Development of Qazaq e-com: New Opportunities for SMEs\"",
+          "description": "To be confirmed ",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Aziza Shuzheeva",
+              "job": "President of TechnoWomen"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Alua Korpebayeva",
+              "job": "President of TechnoWomen"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Galina Sheinberg",
+              "job": "Founder of the APOLI brand"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Olzhas Ryskeldy",
+              "job": "Expert of the International Center for Private Enterprise (CIPE) on the development of the National Business Agenda in the Republic of Kazakhstan within the framework of the project to improve the business environment in Central Asia (IBECA)"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Anton Zinoviev",
+              "job": "USAID Project Manager for the Development of Entrepreneurship and the Business Environment in Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Yernar Nakizbekov",
+              "job": "Chairman at ZOR Technologies"
+            }
+          ]
+        },
+        {
+          "time": "18:00 — 19:00",
+          "hall": "FRIDAY",
+          "title": "Round table \"Behind the Wings: Business Angels Speak on the Development of VC market\"",
+          "description": "Strategic session with business angels",
+
+          "speakers": []
+        }
+      ]
+    },
+    {
+      "date": "2023-10-13",
+      "events": [
+        {
+          "time": "10:00 — 11:00",
+          "hall": "SKYNET",
+          "title": "Keynote Speech: Tim Draper",
+          "description": "The topic and content are being clarified",
+          "moderators": [],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Tim Draper ",
+              "job": "Venture investor, Founder of Draper Fisher Jurvetson Venture company, Founder of Draper University and Draper Venture Network"
+            }
+          ]
+        },
+        {
+          "time": "10:00 — 11:00",
+          "hall": "TRON",
+          "title": "Panel session \"Digital Markets of Kazakhstan: Competing with Digital Giants\"",
+          "description": "– Optimization of business processes and restructuring of IT infrastructure,– Risk management and client profile: assessment, targeting and prevention of risks when working with clients,– The role of GovTech in improving banking products: integration of databases and information systems, implementation of analytics",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Elena Bychkova",
+              "job": "Managing Director of the Association Digital Kazakhstan"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Marat Omarov",
+              "job": "Chairman of the Agency for Protection and Development of Competition of the Republic of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "William Benthall ",
+              "job": "Global Director of Government Relations Glovo"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Sabyrzhan Berkinbaev",
+              "job": "Managing director of Kaspi.kz"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Dmitry Botanov",
+              "job": "CEO Kolesa Group"
+            }
+          ]
+        },
+        {
+          "time": "10:00 — 11:00",
+          "hall": "VISION",
+          "title": "Panel session \"AI & Logistics\"",
+          "description": "New technologies in the field of transport and logistics. Challenges and Solutions.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Yerzhan Nauruzbaev",
+              "job": "Director of the Center for Business Transformation of KTZ"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Wee Tan Yeong",
+              "job": "CEO Global DTC Pte (a member of the PSA family)"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Zhao Xu",
+              "job": "CEO of Huawei Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Scott Hornin",
+              "job": "Senior Leader of Digital Intelligence Wabtec"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Mohamad Al Agha",
+              "job": "Director of Digital & Smart Solutions at Abu Dhabi Ports Group"
+            }
+          ]
+        },
+        {
+          "time": "10:00 — 11:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"AI & Cybersecurity: Which side of Cyberbattle is AI on?\"",
+          "description": "Whose side is AI on cyber security? What are the real use cases of AI for cyberattacks? Why is it dangerous to use AI in a corporate environment? Do we need to be wary of AI, or can it be curbed? Is it possible to partner business and scientists in the field of AI and information security.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Evgeny Pitolin",
+              "job": "Expert in cybersecurity, IT and communications"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Ekaterina Smyshlyaevav",
+              "job": "Deputy of the Mazhilis of the Parliament of the Republic of Kazakhstan of the VIII Convocation"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Ruslan Abdikalikov",
+              "job": "Chairman of the CIB MDDIAI"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Oleg Bil",
+              "job": "Head of Threat Research at Seven Hills of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Medet Turin",
+              "job": "Cybersecurity expert, MSSP Global"
+            }
+          ]
+        },
+        {
+          "time": "10:00 — 11:00",
+          "hall": "FRIDAY",
+          "title": "Google for Startups Summit",
+          "description": "To be confirmed ",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "11:00 — 12:00",
+          "hall": "SKYNET",
+          "title": "Meet the Drapers",
+          "description": "\"Meet the Drapers\" is a reality show in which technology startups from around the world are selected to pitch their project to Tim Draper and his family. Startups compete with each other to advance to the next stage. At the season finale, only one project will have a chance to win $1 million in investment from Draper's private foundation. This is a great opportunity to show your startup to a global audience and get the investments!",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "11:00 — 12:00",
+          "hall": "VISION",
+          "title": "Panel session \"Space Communications: Trends, Tasks and Prospects\"",
+          "description": "\"Space communications: trends, tasks and prospects” is a discussion of current trends and challenges in the field of space communications. Participants review modern technological innovations, potential opportunities for the development of the industry and future prospects.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Kemel Aitzhanov",
+              "job": "Director of Strategy and Innovation, Freedom Telecom"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Selman Nas",
+              "job": "Executive Vice President, Space Systems, Turkish Aerospace Industries, Inc."
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Sandeep Jalan",
+              "job": "CFO SES"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Fuad Allahverdiyev",
+              "job": "Chairman of Board of Directors at AzerTelecom"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Ben Griffin",
+              "job": "Vice President for Mobile Solutions One Web"
+            }
+          ]
+        },
+        {
+          "time": "11:00 — 12:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"Data Management = Sustainability?\"",
+          "description": "As part of the session \"Data Management = Sustainable Development?\", best practices and international experience in data management will be discussed, such as: contribution to the sustainable development of Companies, transparency and monitoring of indicators as the main factor in the implementation of ESG.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Yulia Yakupbayeva",
+              "job": "Partner of the GPI Group of Companies, co-founder of the National ESG Club of Kazakhstan, Member of the Presidium of Atameken"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Antonio Somma",
+              "job": "Partner of Whiteshield Consulting"
+            },
+
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Saken Zhumashev",
+              "job": "Managing Partner and Executive Director of KPMG"
+            }
+          ]
+        },
+        {
+          "time": "11:00 — 12:00",
+          "hall": "FRIDAY",
+          "title": "Google for Startups Summit",
+          "description": "To be confirmed ",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "12:00 — 13:00",
+          "hall": "SKYNET",
+          "title": "Meet the Drapers",
+          "description": "\"Meet the Drapers\" is a reality show in which technology startups from around the world are selected to pitch their project to Tim Draper and his family. Startups compete with each other to advance to the next stage. At the season finale, only one project will have a chance to win $1 million in investment from Draper's private foundation. This is a great opportunity to show your startup to a global audience and get the investments!",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "12:00 — 13:00",
+          "hall": "TRON",
+          "title": "Panel session \"Latest AI trends from people in the arena: scientists and engineers\"",
+          "description": "Current trends in supervised learning, generative AI, and reinforcement learning. Who will win: startups or incumbents? Optimal AI strategy for corporations and startups. What are the biggest challenges in adopting the strategy? Path to AGI and time horizons.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Arman Suleimenov",
+              "job": "Founder, CEO nFactorial School"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Erzat Dulat",
+              "job": "Founder of Higgsfield AI"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Yerbol Kopzhassar",
+              "job": "Co-founder of Goat AI"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Sanzhar Bakhtiyar",
+              "job": "Founder, CEO of Solai"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Andrea Isoni",
+              "job": "Chief AI Officer, Director AI Technologies"
+            }
+          ]
+        },
+        {
+          "time": "12:00 — 13:00",
+          "hall": "VISION",
+          "title": "Panel session \"E-commerce\"",
+          "description": "To be confirmed",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Assem Nurgaliyeva",
+              "job": "Managing Director of Kazpost"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Assel Zhanasova",
+              "job": "Chairman of the Board of Kazpost"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Molder Ryssaliyeva ",
+              "job": "СEO Ozon Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Kairat Balykbaev",
+              "job": "Vice Minister of Trade and Integration of the Republic of Kazakhstan"
+            }
+          ]
+        },
+        {
+          "time": "12:00 — 13:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"5G Digital Transformation Driver\"",
+          "description": "\"Construction and Implementation of the Fifth Generation Network (5G)\" includes an analysis of modern data on the development of 5G, a study of various approaches and standards for the effective implementation of this technology, as well as an analysis of the main difficulties and the impact of legislation and regulation on the process of deploying 5G networks. This topic has important for specialists in the field of telecommunications and information technology, as well as for companies and organizations that seek to assess the potential and prospects of 5G technologies.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Andrei Beklimishev",
+              "job": "Vice-president of IDC in Central Asia"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Askhat Uzbekov ",
+              "job": "Chairman of the Board Kcell"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Sergey Konkov ",
+              "job": "СEO Tele2 "
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Jack Rauli",
+              "job": "Senior Director of Research and Sustainability at GSMA"
+            }
+          ]
+        },
+        {
+          "time": "12:00 — 13:00",
+          "hall": "FRIDAY",
+          "title": "Round table \"Data policy in the era of Digital Transformation\"",
+          "description": "To be confirmed ",
+
+          "speakers": []
+        },
+        {
+          "time": "13:00 — 14:00",
+          "hall": "SKYNET",
+          "title": "Panel session \"AI & Data Driven Democracy\"",
+          "description": "To be confirmed",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmedn"
+            }
+          ]
+        },
+        {
+          "time": "13:00 — 14:00",
+          "hall": "TRON",
+          "title": "Panel session \"Data Driven Organizations: Data as an asset\"",
+          "description": "The main question of the discussion boils down to why companies should integrate data management. This is a key step in making the most of data, turning it into a valuable asset, enabling informed decision making and improving the operational efficiency of the organization.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Zhandos Shaimardanov",
+              "job": "Head of the Bureau of National Statistics"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Anton Khmelev",
+              "job": "Chief Data Officer, Executive Director Forte Bank"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Rustem Uvaliyev ",
+              "job": "Head of IT architecture department ERG"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Rafael Valeev",
+              "job": "Managing Director of Bereke Bank"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Elisar Nurmagambetov",
+              "job": "CEO and founder of Black Ice AI"
+            }
+          ]
+        },
+        {
+          "time": "13:00 — 14:00",
+          "hall": "VISION",
+          "title": "Panel Session \"Advancing Public Healthcare through AI: Challenges, Innovations, and Ethical Considerations\"",
+          "description": "This session can cover a wide range of topics related to artificial intelligence in healthcare, including emerging issues, innovative applications, and ethical considerations associated with its implementation. This may include discussions about privacy, data quality, bias, regulation, transparency, integration, job relocation, and more.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ]
+        },
+        {
+          "time": "13:00 — 14:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"No Code trend on freelance platforms\"",
+          "description": "The panel session at the Digital Bridge 2023 forum on the topic \"No Code in freelance\" will discuss topical issues of using No Code tools in freelancing. Experts will share their experience and consider how No Code technologies affect the processes and opportunities of freelancers especially on the Upwork platform.",
+          "moderators": [],
+          "speakers": [
+            {
+              "fio": "Narikbi Maksut",
+              "job": "iOS Developer Booking.com"
+            }
+          ]
+        },
+        {
+          "time": "13:00 — 14:00",
+          "hall": "FRIDAY",
+          "title": "Keynote speech \"E-government trends UN VISION\"",
+          "description": "The topic and content are being clarified",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "SKYNET",
+          "title": "Panel session \"AI as a New Era of IP: Current Trends and Challenges\"",
+          "description": "AI as a tool for creating new intellectual property objects. The impact of AI on the patent system and changing patent strategies",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Erbol Ospanov",
+              "job": "Director of Qazpatent"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Azamat Eskaraev",
+              "job": "Minister of Justice of the Republic of Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Xenia Gigax",
+              "job": "World Intellectual Property Organization, Artificial Intelligence Policy DiVISION"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Victoria Simonova",
+              "job": "Partner Dentons Kazakhstan"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Marat Albamaganbetov",
+              "job": "Business Development Director LexisNexis Eastern Europe & Central Asia"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "TRON",
+          "title": "Panel session \"Venturing Beyond Boundaries: How VCs Drive Regional Startups\"",
+          "description": "•Development of the venture capital market in Central Eurasia: challenges and solutions •The role of investors in scaling regional startups to global markets •Strengthening the regional venture market on the world stage in cooperation with international venture funds and accelerators",
+
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Aslan Sultanov",
+              "job": "To be confirmed"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Adil Ismagambetov",
+              "job": "To be confirmed "
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Levan Kavtaradze",
+              "job": "To be confirmed "
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "VISION",
+          "title": "Panel session \"AI & Communication\"",
+          "description": "AI as a tool for creating new intellectual property objects. The impact of AI on the patent system and changing patent strategies\",AI orchestrating your WhatsApp and other business communications” или “How to save costs with WhatsApp AI virtual agent and other business communications или How to win the CX Race with AI orchestrating your WhatsApp?",
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Jahn Karsybaev",
+              "job": "Venture Capital | Harvard Business School | Investing in B2B SaaS | Ivy Podcast"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "JARVIS",
+          "title": "Panel session \"Defense tech - Development of UAVs and small aircraft in Kazakhstan\"",
+          "description": "Development of UAVs and small aircraft in Kazakhstan, legislative initiatives to change the airworthiness rules. Application of military developments in the civil sphere.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Temirzhan Abdrakhmanov",
+              "job": "Chairman of the Board of Kazakhstan Engineering"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Darkhan Akhmediev",
+              "job": "Deputy Minister of Defense of the Republic of Kazakhstan"
+            }
+          ]
+        },
+        {
+          "time": "14:00 — 15:00",
+          "hall": "FRIDAY",
+          "title": "Ecosystem of Technoparks in Central Eurasia",
+          "description": "To be confirmed",
+          "moderators": [],
+          "speakers": []
+        },
+
+        {
+          "time": "15:00 — 16:00",
+          "hall": "SKYNET",
+          "title": "Alem AI Cup",
+          "description": "Final",
+          "moderators": [],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ]
+        },
+        {
+          "time": "15:00 — 16:00",
+          "hall": "TRON",
+          "title": "Panel session: How to Raise Capital in a Challenging Global Venture Market",
+          "description": "•Global venture market: rise after fall•New market drivers - AI boom •How a non-AI startup can attract investments",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Adil Nurgozhin",
+              "job": "To be confirmed"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Mr. Ervin Luga",
+              "job": "Head of Venture Capital Investment Programme"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Nurken Rzaliyev",
+              "job": "InDrive VC"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "James Tan",
+              "job": "Quest Ventures"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Asra Nadeem ",
+              "job": "CEO of Draper University"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Levan Kavtaradze",
+              "job": "Investment Director at TMT Investments"
+            }
+          ]
+        },
+        {
+          "time": "15:00 — 16:00",
+          "hall": "VISION",
+          "title": "Panel session: Empowering Govenment: Data Driven Governance and National AI",
+          "description": "In today's technology and data-infused world, artificial intelligence and data management are becoming key factors in shaping the future of society and economy. AI and data policy plays a significant role in setting the course of a nation and its competitiveness. The panel session will provide a platform to discuss important aspects of artificial intelligence (AI) policy and data management in today's digital age.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Dmitry Mun",
+              "job": "Deputy Chairman of the Board of  NIT"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Rustem Bigari",
+              "job": "CEO Digital Government Support Center"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Vincenzo Aquaro ",
+              "job": "Chief of Digital Government Branch DiVISION for Public Institutions and Digital Government Department of Economic and Social Affairs – United Nations"
+            }
+          ]
+        },
+
+        {
+          "time": "15:00 — 16:00",
+          "hall": "FRIDAY",
+          "title": "Round table: The formation of Kazakhstan as a cryptohub",
+          "description": "To be confirmed ",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "SKYNET",
+          "title": "Final Astana Hub Battle",
+          "description": "Final",
+
+          "speakers": []
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "TRON",
+          "title": "Panel session: The Future of Payments: AI at the Heart of the FinTech Revolution",
+          "description": "1. Introduction to AI and Fintech: An overview of current trends and the impact of AI on fintech.2. Ethical Issues and Regulation: Discussing safety, transparency and regulation issues in the field of AI in fintech. 3. Case study: Success stories: An analysis of successful examples of integrating AI into financial services and products. 4. Technology and Innovation: An overview of new technologies and innovative solutions in the field of AI and fintech.5. Future of AI in Fintech: Predicting the future development and possible changes in the field.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Binur Zhalenov",
+              "job": "Chairman of the National Payment Corporation of Kazakhstan"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Asem Nurgaliyeva",
+              "job": "Managing Director of Kazpost"
+            },
+
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Aidos Zhumagulov",
+              "job": "Advisor to the Chairman of the Board of Directors of Freedom Bank"
+            }
+          ]
+        },
+        {
+          "time": "16:00 — 17:00",
+          "hall": "VISION",
+          "title": "Panel session: AI and Kazakh language",
+          "description": "To be confirmed ",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "To be confirmed",
+              "job": "To be confirmed"
+            }
+          ]
+        },
+
+        {
+          "time": "16:00 — 17:00",
+          "hall": "FRIDAY",
+          "title": "Round table: “AI and Digital Law: Opportunities and Challenges”",
+          "description": "To be confirmed ",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "SKYNET",
+          "title": "17:00- 17:30<br>Final Astana Hub Battle<br><br>17:30- 18:00<br>KPMG Tech Awards 2023",
+          "description": "The battle stands as the premier competition for the leading IT startups. It provides a platform for competing startups to contend for the esteemed title of 'the best.A total prize pool of $75,000.",
+          "moderators": [],
+          "speakers": []
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "TRON",
+          "title": "Panel session: New Era of Customer Engagement: Technology and Business Opportunities in Kazakhstan",
+          "description": "Representatives of businesses from various verticals will share their case studies on the challenges that companies face in the new reality and the solutions that are available in Kazakhstan today to increase the audience and achieve the goals.",
+          "moderators": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Julia Kushnir",
+              "job": "TikTok, Head of Central Asia Domestic Business"
+            }
+          ],
+          "speakers": [
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Dmitry Komissar",
+              "job": "CEO Forte Market"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Alexander Degtyarev",
+              "job": "Leader of the People's Bank Department"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Daniel Kim",
+              "job": "CEO of Airba Fresh"
+            },
+            {
+              "img": "img/no_name.jpg",
+              "fio": "Mikhail Chernyshev",
+              "job": "Global Brand Director, InDrive"
+            }
+          ]
+        },
+        {
+          "time": "17:00 — 18:00",
+          "hall": "VISION",
+          "title": "Panel session: Application of AI technology in industry",
+          "description": "Artificial Intelligence (AI) experts share their knowledge and experience on how AI technologies are being applied to and impacting industries. During the session, specific examples of the successful implementation of AI in production processes, resource management, operations optimization and efficiency improvement are discussed. Participants will learn about how AI can improve prediction, automation and decision making in industrial enterprises, as well as research and trends in this area. This session provides a platform to share knowledge and ideas on how to use AI to improve the industry.",
+          "moderators": [],
+          "speakers": []
+        },
+
+        {
+          "time": "17:00 — 18:00",
+          "hall": "FRIDAY",
+          "title": "Round table",
+          "description": "To be confirmed ",
+
+          "speakers": []
+        }
+      ]
+    }
+  ],
+  "details": {
+    "main_title": "Forum Program",
+    "main_subtitle": "Program is being expanded",
+    "octobers": "October",
+    "choose_date": "Choose a Date",
+    "all_halls": "All halls",
+    "first_date_title": "First Day",
+    "second_date_title": "Second Day",
+    "first_static_block": "Participants Registration",
+    "second_static_block": "Plenary Session with the participation of the Head of State (by invitation)",
+    "moderator_title": "Moderator",
+    "speakers_title": "Speakers",
+    "presenters_title": "Presenter",
+    "jury_title": "Jury",
+    "card_button": "Learn More",
+    "modal_button": "Participate",
+    "choose_data": "Choose Date",
+    "choose_hall": "Choose Hall"
+  }
+}

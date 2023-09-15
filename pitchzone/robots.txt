@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /page22604955.html
+Disallow: /page29216962.html
+Disallow: /tb
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: https://digitalbridge.kz/sitemap.xml
+Sitemap: https://digitalbridge.kz/sitemap-feeds.xml
+Host: https://digitalbridge.kz

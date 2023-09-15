@@ -1,0 +1,139 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+DirectoryIndex page29441153.html
+
+RewriteEngine On
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^test2021$ page22040082.html [NC]
+RewriteRule ^test2021/$ page22040082.html [NC]
+
+RewriteRule ^ru/2019$ page7506623.html [NC]
+RewriteRule ^ru/2019/$ page7506623.html [NC]
+
+RewriteRule ^tb$ page29216962.html [NC]
+RewriteRule ^tb/$ page29216962.html [NC]
+
+RewriteRule ^kz/2019$ page7578054.html [NC]
+RewriteRule ^kz/2019/$ page7578054.html [NC]
+
+RewriteRule ^en/2019$ page7578358.html [NC]
+RewriteRule ^en/2019/$ page7578358.html [NC]
+
+RewriteRule ^nexttech$ page7242496.html [NC]
+RewriteRule ^nexttech/$ page7242496.html [NC]
+
+RewriteRule ^eng$ page29694945.html [NC]
+RewriteRule ^eng/$ page29694945.html [NC]
+
+RewriteRule ^kaz$ page29694913.html [NC]
+RewriteRule ^kaz/$ page29694913.html [NC]
+
+RewriteRule ^nexttechkaz$ page7378406.html [NC]
+RewriteRule ^nexttechkaz/$ page7378406.html [NC]
+
+RewriteRule ^nexttecheng$ page7378407.html [NC]
+RewriteRule ^nexttecheng/$ page7378407.html [NC]
+
+RewriteRule ^5cdoopentalks$ page7338584.html [NC]
+RewriteRule ^5cdoopentalks/$ page7338584.html [NC]
+
+RewriteRule ^5cdoopentalkskaz$ page7566304.html [NC]
+RewriteRule ^5cdoopentalkskaz/$ page7566304.html [NC]
+
+RewriteRule ^awards$ page7348231.html [NC]
+RewriteRule ^awards/$ page7348231.html [NC]
+
+RewriteRule ^futureofeducationeng$ page7780573.html [NC]
+RewriteRule ^futureofeducationeng/$ page7780573.html [NC]
+
+RewriteRule ^esport$ page7833146.html [NC]
+RewriteRule ^esport/$ page7833146.html [NC]
+
+RewriteRule ^digitalhealth$ page7833716.html [NC]
+RewriteRule ^digitalhealth/$ page7833716.html [NC]
+
+RewriteRule ^nexttechforum$ page7834053.html [NC]
+RewriteRule ^nexttechforum/$ page7834053.html [NC]
+
+RewriteRule ^futureedu$ page7834208.html [NC]
+RewriteRule ^futureedu/$ page7834208.html [NC]
+
+RewriteRule ^opentalks$ page7834335.html [NC]
+RewriteRule ^opentalks/$ page7834335.html [NC]
+
+RewriteRule ^interexpertcouncil$ page7834371.html [NC]
+RewriteRule ^interexpertcouncil/$ page7834371.html [NC]
+
+RewriteRule ^digitalhealth2$ page7834474.html [NC]
+RewriteRule ^digitalhealth2/$ page7834474.html [NC]
+
+RewriteRule ^qtvsessions$ page7834627.html [NC]
+RewriteRule ^qtvsessions/$ page7834627.html [NC]
+
+RewriteRule ^25oct$ page7852048.html [NC]
+RewriteRule ^25oct/$ page7852048.html [NC]
+
+RewriteRule ^educationfututre$ page7852073.html [NC]
+RewriteRule ^educationfututre/$ page7852073.html [NC]
+
+RewriteRule ^opentlk$ page7852079.html [NC]
+RewriteRule ^opentlk/$ page7852079.html [NC]
+
+RewriteRule ^intdig$ page7852085.html [NC]
+RewriteRule ^intdig/$ page7852085.html [NC]
+
+RewriteRule ^qlt$ page7852150.html [NC]
+RewriteRule ^qlt/$ page7852150.html [NC]
+
+RewriteRule ^eng-93062$ page7271539.html [NC]
+RewriteRule ^eng-93062/$ page7271539.html [NC]
+
+RewriteRule ^kaz-34005$ page7271687.html [NC]
+RewriteRule ^kaz-34005/$ page7271687.html [NC]
+
+RewriteRule ^awardsawards$ page22638486.html [NC]
+RewriteRule ^awardsawards/$ page22638486.html [NC]
+
+RewriteRule ^battle$ page22643795.html [NC]
+RewriteRule ^battle/$ page22643795.html [NC]
+
+RewriteRule ^awards2021$ page22644611.html [NC]
+RewriteRule ^awards2021/$ page22644611.html [NC]
+
+RewriteRule ^asddsadsadasdsa$ page22806266.html [NC]
+RewriteRule ^asddsadsadasdsa/$ page22806266.html [NC]
+
+RewriteRule ^battle2022$ page29682158.html [NC]
+RewriteRule ^battle2022/$ page29682158.html [NC]
+
+RewriteRule ^battle2023en$ page29712588.html [NC]
+RewriteRule ^battle2023en/$ page29712588.html [NC]
+
+RewriteRule ^kz$ page23206731.html [NC]
+RewriteRule ^kz/$ page23206731.html [NC]
+
+RewriteRule ^123123123test$ page29727394.html [NC]
+RewriteRule ^123123123test/$ page29727394.html [NC]
+
+RewriteRule ^programs$ page29899428.html [NC]
+RewriteRule ^programs/$ page29899428.html [NC]
+
+RewriteRule ^battle2023rus$ page29803493.html [NC]
+RewriteRule ^battle2023rus/$ page29803493.html [NC]
+
+RewriteRule ^123test123$ page30110767.html [NC]
+RewriteRule ^123test123/$ page30110767.html [NC]
+
+RewriteRule ^battle2023kaz$ page29804097.html [NC]
+RewriteRule ^battle2023kaz/$ page29804097.html [NC]
+
+RewriteRule ^members/ ma_start.html [NC]
+
+
