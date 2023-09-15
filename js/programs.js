@@ -64,6 +64,8 @@ function loadProgramData() {
     })
     .then(response => response.json())
     .then(data => {
+      data = JSON.parse(JSON.stringify(data));
+      console.log();
       data.programs.forEach((program, programIndex) => {
         if (program.events) {
           program.events.forEach((event, eventIndex) => {
@@ -71,6 +73,7 @@ function loadProgramData() {
               event.moderators.forEach((moderator, moderatorIndex) => {
                 const key = `${programIndex}-${eventIndex}-moderator-${moderatorIndex}`;
                 if (ruImages[key]) {
+
                   moderator.img = ruImages[key];
                 }
               });
@@ -371,6 +374,7 @@ function renderCards(cards) {
   const hallsOrder = ["SKYNET", "TRON", "VISION", "ULTRON", "FRIDAY"];
 
   function sortByTime(a, b) {
+    console.log(3232323232, a, b)
     if (!a.time || !b.time) {
       console.warn("Event without time:", a, b);
       return 0;
@@ -386,7 +390,7 @@ function renderCards(cards) {
     const hallOrderB = hallsOrder.indexOf(b.hall);
 
     if (hallOrderA !== hallOrderB) {
-      return hallOrderA - hallOrderB;
+      return Math.abs(hallOrderA - hallOrderB);
     }
 
     // Если залы одинаковые, то сортируем по времени (вы можете использовать вашу функцию `sortByTime` здесь, если хотите)
@@ -531,7 +535,8 @@ function renderCards(cards) {
         let hourlyGroups = groupEventsByHour(card.events);
 
         Object.keys(hourlyGroups).sort(sortByTime).forEach(time => {
-          const eventsForThisHour = hourlyGroups[time].sort(sortByHallAndTime);;
+          const eventsForThisHour = hourlyGroups[time].sort(sortByHallAndTime);
+          console.log(hourlyGroups[time], 'LSDLF');
 
           // Создаем заголовок для этого часового блока
           const timeHeader = document.createElement('h3');
