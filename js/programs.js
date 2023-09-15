@@ -117,6 +117,7 @@ function loadProgramData() {
 }
 
 
+
 // При загрузке страницы:
 document.addEventListener("DOMContentLoaded", () => {
   let sessionLang = sessionStorage.getItem('selectedLang');
@@ -277,7 +278,7 @@ function filterCards(hallFilter = currentHallFilter) {
         date: card.date,
         events: card.events.filter(event => event.hall === hallFilter)
       }
-    });
+    }).filter(card => card.events.length > 0);
   }
 
   renderCards(filteredCards);
@@ -367,7 +368,7 @@ let addedTimes = [];
 function renderCards(cards) {
   cardsDiv.innerHTML = '';
 
-  const hallsOrder = ["AIDA", "JARVIS", "Vision", "Ultron", "FRIDAY"];
+  const hallsOrder = ["SKYNET", "TRON", "VISION", "ULTRON", "FRIDAY"];
 
   function sortByTime(a, b) {
     if (!a.time || !b.time) {
