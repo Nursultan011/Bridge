@@ -28,33 +28,19 @@ function loadProgramData() {
   fetch('jsons/programs_RU.json')
     .then(response => response.json())
     .then(ruData => {
-      ruData.programs.forEach((program, programIndex) => {
+      ruData.programs.forEach((program) => {
         if (program.events) {
-          program.events.forEach((event, eventIndex) => {
-            if (event.moderators) {
-              event.moderators.forEach((moderator, moderatorIndex) => {
-                const key = `${programIndex}-${eventIndex}-moderator-${moderatorIndex}`;
-                ruImages[key] = moderator.img;
-              });
-            }
-            if (event.speakers) {
-              event.speakers.forEach((speaker, speakerIndex) => {
-                const key = `${programIndex}-${eventIndex}-speaker-${speakerIndex}`;
-                ruImages[key] = speaker.img;
-              });
-            }
-            if (event.presenters) {
-              event.presenters.forEach((presenter, presenterIndex) => {
-                const key = `${programIndex}-${eventIndex}-presenter-${presenterIndex}`;
-                ruImages[key] = presenter.img;
-              });
-            }
-            if (event.jury) {
-              event.jury.forEach((juryMember, juryIndex) => {
-                const key = `${programIndex}-${eventIndex}-jury-${juryIndex}`;
-                ruImages[key] = juryMember.img;
-              });
-            }
+          program.events.forEach((event) => {
+            const keyPrefix = `${program.date}-${event.time}-${event.hall}`;
+
+            ['moderators', 'speakers', 'presenters', 'jury'].forEach(role => {
+              if (event[role]) {
+                event[role].forEach((person, index) => {
+                  const key = `${role}-${index}-${keyPrefix}`;
+                  ruImages[key] = person.img;
+                });
+              }
+            });
           });
         }
       });
@@ -64,44 +50,21 @@ function loadProgramData() {
     })
     .then(response => response.json())
     .then(data => {
-      data = JSON.parse(JSON.stringify(data));
-      console.log();
-      data.programs.forEach((program, programIndex) => {
+      data.programs.forEach((program) => {
         if (program.events) {
-          program.events.forEach((event, eventIndex) => {
-            if (event.moderators) {
-              event.moderators.forEach((moderator, moderatorIndex) => {
-                const key = `${programIndex}-${eventIndex}-moderator-${moderatorIndex}`;
-                if (ruImages[key]) {
+          program.events.forEach((event) => {
+            const keyPrefix = `${program.date}-${event.time}-${event.hall}`;
 
-                  moderator.img = ruImages[key];
-                }
-              });
-            }
-            if (event.speakers) {
-              event.speakers.forEach((speaker, speakerIndex) => {
-                const key = `${programIndex}-${eventIndex}-speaker-${speakerIndex}`;
-                if (ruImages[key]) {
-                  speaker.img = ruImages[key];
-                }
-              });
-            }
-            if (event.presenters) {
-              event.presenters.forEach((presenter, presenterIndex) => {
-                const key = `${programIndex}-${eventIndex}-presenter-${presenterIndex}`;
-                if (ruImages[key]) {
-                  presenter.img = ruImages[key];
-                }
-              });
-            }
-            if (event.jury) {
-              event.jury.forEach((juryMember, juryIndex) => {
-                const key = `${programIndex}-${eventIndex}-jury-${juryIndex}`;
-                if (ruImages[key]) {
-                  juryMember.img = ruImages[key];
-                }
-              });
-            }
+            ['moderators', 'speakers', 'presenters', 'jury'].forEach(role => {
+              if (event[role]) {
+                event[role].forEach((person, index) => {
+                  const key = `${role}-${index}-${keyPrefix}`;
+                  if (ruImages[key]) {
+                    person.img = ruImages[key];
+                  }
+                });
+              }
+            });
           });
         }
       });
@@ -118,7 +81,6 @@ function loadProgramData() {
       console.error('Ошибка загрузки данных:', error);
     });
 }
-
 
 
 // При загрузке страницы:
@@ -174,7 +136,6 @@ function populateHalls(cards) {
 
 function toggleDateDropdown() {
   dateFilterDiv.classList.toggle('open');
-  console.log("Toggled! Current classes:", dateFilterDiv.className);
 }
 
 function formatDateForDisplay(date) {
@@ -229,8 +190,6 @@ function updateDropdownText() {
 }
 
 function updateSelectedDateText() {
-  console.log("Updating selected date text. October:", details.octobers);
-
   const selectedDates = Array.from(document.querySelectorAll('#dateFilter .date-option.selected'));
   const selectedDateDiv = document.querySelector('.selected-date');
 
@@ -387,14 +346,12 @@ function renderCards(cards) {
     const hallOrderA = hallsOrder.indexOf(a.hall);
     const hallOrderB = hallsOrder.indexOf(b.hall);
 
-    console.log("Comparing halls:", a.hall, b.hall, "Order A:", hallOrderA, "Order B:", hallOrderB, "Result:", hallOrderA - hallOrderB);
 
     if (hallOrderA !== hallOrderB) {
       return hallOrderA - hallOrderB;
     }
 
     const timeComparisonResult = sortByTime(a, b);
-    console.log("Same halls, comparing times:", a.time, b.time, "Result:", timeComparisonResult);
     return timeComparisonResult;
   };
 
@@ -443,7 +400,6 @@ function renderCards(cards) {
   cards.forEach(card => {
     // Проверка наличия событий для текущей даты
     if (card.events.length > 0) {
-      console.log("Processing date:", card.date);
       const dateHeader = document.createElement('h2');
       dateHeader.textContent = formatDateText(card.date);  // Используем нашу новую функцию здесь
 
@@ -479,7 +435,6 @@ function renderCards(cards) {
 
       if (!isAllHallsTabActive) {
         card.events.forEach(event => {
-          console.log(isAllHallsTabActive, 'dewdwedew')
           if (isAllHallsTabActive && !programCardsWrap.querySelector(`.time-header[data-time="${event.time}"]`)) {
             const timeHeader = document.createElement('h3');
             timeHeader.classList.add('time-header');
