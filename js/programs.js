@@ -368,15 +368,13 @@ function generateJuryHTML(jury) {
 
 let addedTimes = [];
 
+const hallsOrder = ["SKYNET", "TRON", "VISION", "JARVIS", "FRIDAY"];
+
 function renderCards(cards) {
   cardsDiv.innerHTML = '';
 
-  const hallsOrder = ["SKYNET", "TRON", "VISION", "ULTRON", "FRIDAY"];
-
   function sortByTime(a, b) {
-    console.log(3232323232, a, b)
     if (!a.time || !b.time) {
-      console.warn("Event without time:", a, b);
       return 0;
     }
     const [startA, endA] = a.time.split(" — ").map(time => time.split(":").map(Number).reduce((acc, val, idx) => acc + val * (idx === 0 ? 60 : 1)));
@@ -389,12 +387,15 @@ function renderCards(cards) {
     const hallOrderA = hallsOrder.indexOf(a.hall);
     const hallOrderB = hallsOrder.indexOf(b.hall);
 
+    console.log("Comparing halls:", a.hall, b.hall, "Order A:", hallOrderA, "Order B:", hallOrderB, "Result:", hallOrderA - hallOrderB);
+
     if (hallOrderA !== hallOrderB) {
-      return Math.abs(hallOrderA - hallOrderB);
+      return hallOrderA - hallOrderB;
     }
 
-    // Если залы одинаковые, то сортируем по времени (вы можете использовать вашу функцию `sortByTime` здесь, если хотите)
-    return sortByTime(a, b);
+    const timeComparisonResult = sortByTime(a, b);
+    console.log("Same halls, comparing times:", a.time, b.time, "Result:", timeComparisonResult);
+    return timeComparisonResult;
   };
 
 
@@ -409,7 +410,6 @@ function renderCards(cards) {
       newEvent.time = `${String(hour).padStart(2, '0')}:00 — ${String(hour + 1).padStart(2, '0')}:00`;
       timeBlocks.push(newEvent);
     }
-    console.log("Часовые блоки для события", timeBlocks);
 
     return timeBlocks;
   }
@@ -429,7 +429,6 @@ function renderCards(cards) {
 
     return hourlyGroups;
   }
-
 
   function isDurationMoreThanAnHour(time) {
     const [startHour, endHour] = time.split(" — ").map(t => parseInt(t.split(":")[0], 10));
@@ -536,7 +535,6 @@ function renderCards(cards) {
 
         Object.keys(hourlyGroups).sort(sortByTime).forEach(time => {
           const eventsForThisHour = hourlyGroups[time].sort(sortByHallAndTime);
-          console.log(hourlyGroups[time], 'LSDLF');
 
           // Создаем заголовок для этого часового блока
           const timeHeader = document.createElement('h3');
